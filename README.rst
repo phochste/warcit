@@ -12,7 +12,7 @@ WARCIT supports converting individual files, directories (including any nested d
 Install
 -------
 
-```pip install warcit```
+``pip install warcit``
 
 Basic Usage
 -----------
